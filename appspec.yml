@@ -3,7 +3,4 @@ os: linux
 files:
   - source: /git-study
     destination: /home/ec2-user/gitsudy
-hooks:
-  ApplicationStart:
-    - location: scripts/codedeploy_start.sh
-      timeout: 180
+
