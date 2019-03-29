@@ -1,6 +1,6 @@
 version: 1.0
 os: linux
 files:
-  - source: /git-study
+  - source: /
     destination: /home/ec2-user/gitsudy
 
